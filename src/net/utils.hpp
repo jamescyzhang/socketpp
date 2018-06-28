@@ -1,0 +1,6 @@
+#ifndef SOCKETPP_UTILS_HPP
+#define SOCKETPP_UTILS_HPP
+
+#define INVALID_SOCKET -1
+
+#endif //SOCKETPP_UTILS_HPP
